@@ -1,0 +1,47 @@
+{
+   "DZ8": {
+      "Directori": [
+         "DATA",
+         "dir_jther",
+         "fort"
+      ],
+      "Files": [
+         "DZ.py SIZE = 2297b",
+         "DZ8.csv SIZE = 0b",
+         "DZ8.json SIZE = 1195b",
+         "DZ8.picle SIZE = 0b",
+         "open_jsn_write_picl.py SIZE = 1540b",
+         "picle_whith_csw.py SIZE = 1693b",
+         "read_csv_and_print_picle_str.py SIZE = 525b",
+         "read_txt_and_write_to_json_file.py SIZE = 1020b",
+         "writeble_json_file_date_of_user.py SIZE = 2376b"
+      ]
+   },
+   "DATA": {
+      "Directori": null,
+      "Files": [
+         "file1.csv SIZE = 94b",
+         "file1.json SIZE = 92b",
+         "file1.picle SIZE = 95b",
+         "file23.csv SIZE = 114b",
+         "file23.json SIZE = 136b",
+         "file23.picle SIZE = 114b",
+         "fyr.po SIZE = 35b",
+         "rezult.dat SIZE = 192b",
+         "rezult.json SIZE = 258b",
+         "user_pass.json SIZE = 138b"
+      ]
+   },
+   "dir_jther": {
+      "Directori": null,
+      "Files": [
+         "text.txt SIZE = 223b"
+      ]
+   },
+   "fort": {
+      "Directori": null,
+      "Files": [
+         "text.txt SIZE = 223b"
+      ]
+   }
+}
